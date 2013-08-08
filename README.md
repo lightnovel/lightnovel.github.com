@@ -1,4 +1,0 @@
-lightnovel.github.com
-=====================
-
-lightnovel
